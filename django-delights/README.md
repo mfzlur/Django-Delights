@@ -1,15 +1,3 @@
-# Django Delights Inventory Tracker
+# Restaurant inventory management app
 
-## User Login Information
-
-**Username**: `codecademy`
-
-**Password**: `django`
-
-## Get Started
-
-```bash
-python manage.py runserver
-```
-
-Navigate to [this url](http://localhost:8000/).
+This app helps user in maintaining their restaurant inventory and orders
